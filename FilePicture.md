@@ -25,7 +25,7 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
   - See HTML in the right
   - Magic
 
-# true
+# t & rue
 
   - Import & a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
@@ -50,7 +50,7 @@ This text you see here is *actually* written in Markdown! To get a feel for Mark
 
 ### false
 
-Dillinger uses a number of open source projects to work properly:
+Dillinger & uses a number of open source projects to work properly:
 
 * [AngularJS] - HTML enhanced for web apps!
 * [Ace Editor] - awesome web-based text editor
