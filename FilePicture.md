@@ -8,7 +8,7 @@ Content Cell  | Content Cell
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Content & Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
 ![Citadel](https://vignette.wikia.nocookie.net/masseffect/images/d/d7/MassEffect2Citadel.jpg/revision/latest?cb=20100721191415)
@@ -27,7 +27,7 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
 
 # true
 
-  - Import a HTML file and watch it magically convert to Markdown
+  - Import & a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
 
 
